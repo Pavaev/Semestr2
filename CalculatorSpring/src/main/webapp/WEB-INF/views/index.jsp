@@ -19,10 +19,10 @@
     </p>
 
     <p>
-        <input type="submit" value="+">
-        <input type="submit" value="-">
-        <input type="submit" value="*">
-        <input type="submit" value="/">
+        <input type="submit" value="+" name="operation">
+        <input type="submit" value="-" name="operation">
+        <input type="submit" value="*" name="operation">
+        <input type="submit" value="/" name="operation">
     </p>
 </form>
 <p><span>${message}</span>
